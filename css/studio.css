@@ -146,8 +146,8 @@ div {
     height: 450px;
     padding: 0 5px;
     background-color: white;
-    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=92)";
-    filter: alpha(opacity = 92);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=92)";  /* IE8 */
+    filter: alpha(opacity = 92); /* IE 5-7  */
     opacity: 0.92;
     font-family: "Comic Sans MS", cursive, sans-serif !important;
 }
