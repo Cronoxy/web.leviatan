@@ -1,4 +1,4 @@
-backbone_requirejs
+Web Leviatan
 ==================
 
-Backbone and RequireJs initial file structure
+Leviatan We do IT all
